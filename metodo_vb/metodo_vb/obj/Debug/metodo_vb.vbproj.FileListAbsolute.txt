@@ -1,0 +1,37 @@
+C:\Documents and Settings\dw\Mis documentos\Visual Studio 2008\Projects\metodo_vb\metodo_vb\bin\Debug\metodo_vb.exe
+C:\Documents and Settings\dw\Mis documentos\Visual Studio 2008\Projects\metodo_vb\metodo_vb\bin\Debug\metodo_vb.pdb
+C:\Documents and Settings\dw\Mis documentos\Visual Studio 2008\Projects\metodo_vb\metodo_vb\bin\Debug\metodo_vb.xml
+C:\Documents and Settings\dw\Mis documentos\Visual Studio 2008\Projects\metodo_vb\metodo_vb\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dw\Mis documentos\Visual Studio 2008\Projects\metodo_vb\metodo_vb\obj\Debug\metodo_vb.Form1.resources
+C:\Documents and Settings\dw\Mis documentos\Visual Studio 2008\Projects\metodo_vb\metodo_vb\obj\Debug\metodo_vb.Resources.resources
+C:\Documents and Settings\dw\Mis documentos\Visual Studio 2008\Projects\metodo_vb\metodo_vb\obj\Debug\metodo_vb.vbproj.GenerateResource.Cache
+C:\Documents and Settings\dw\Mis documentos\Visual Studio 2008\Projects\metodo_vb\metodo_vb\obj\Debug\metodo_vb.exe
+C:\Documents and Settings\dw\Mis documentos\Visual Studio 2008\Projects\metodo_vb\metodo_vb\obj\Debug\metodo_vb.xml
+C:\Documents and Settings\dw\Mis documentos\Visual Studio 2008\Projects\metodo_vb\metodo_vb\obj\Debug\metodo_vb.pdb
+C:\Users\Jhon Vargas\Desktop\algoritmos_de_encryptacion.3396\metodo_vb\metodo_vb\metodo_vb\obj\Debug\metodo_vb.exe
+C:\Users\Jhon Vargas\Desktop\algoritmos_de_encryptacion.3396\metodo_vb\metodo_vb\metodo_vb\obj\Debug\metodo_vb.xml
+C:\Users\Jhon Vargas\Desktop\algoritmos_de_encryptacion.3396\metodo_vb\metodo_vb\metodo_vb\obj\Debug\metodo_vb.pdb
+C:\Users\Jhon Vargas\Desktop\algoritmos_de_encryptacion.3396\metodo_vb\metodo_vb\metodo_vb\bin\Debug\metodo_vb.exe
+C:\Users\Jhon Vargas\Desktop\algoritmos_de_encryptacion.3396\metodo_vb\metodo_vb\metodo_vb\bin\Debug\metodo_vb.pdb
+C:\Users\Jhon Vargas\Desktop\algoritmos_de_encryptacion.3396\metodo_vb\metodo_vb\metodo_vb\bin\Debug\metodo_vb.xml
+C:\Users\Jhon Vargas\Desktop\algoritmos_de_encryptacion.3396\metodo_vb\metodo_vb\metodo_vb\obj\Debug\metodo_vb.Form1.resources
+C:\Users\Jhon Vargas\Desktop\algoritmos_de_encryptacion.3396\metodo_vb\metodo_vb\metodo_vb\obj\Debug\metodo_vb.Resources.resources
+C:\Users\Jhon Vargas\Desktop\algoritmos_de_encryptacion.3396\metodo_vb\metodo_vb\metodo_vb\obj\Debug\metodo_vb.vbproj.GenerateResource.Cache
+C:\Users\Jhon Vargas\Desktop\CODIGO DE CONTROL\metodo_vb\metodo_vb\metodo_vb\obj\Debug\metodo_vb.exe
+C:\Users\Jhon Vargas\Desktop\CODIGO DE CONTROL\metodo_vb\metodo_vb\metodo_vb\obj\Debug\metodo_vb.xml
+C:\Users\Jhon Vargas\Desktop\CODIGO DE CONTROL\metodo_vb\metodo_vb\metodo_vb\obj\Debug\metodo_vb.pdb
+C:\Users\Jhon Vargas\Desktop\CODIGO DE CONTROL\metodo_vb\metodo_vb\metodo_vb\bin\Debug\metodo_vb.exe
+C:\Users\Jhon Vargas\Desktop\CODIGO DE CONTROL\metodo_vb\metodo_vb\metodo_vb\bin\Debug\metodo_vb.pdb
+C:\Users\Jhon Vargas\Desktop\CODIGO DE CONTROL\metodo_vb\metodo_vb\metodo_vb\bin\Debug\metodo_vb.xml
+C:\Users\Jhon Vargas\Desktop\CODIGO DE CONTROL\metodo_vb\metodo_vb\metodo_vb\obj\Debug\metodo_vb.Form1.resources
+C:\Users\Jhon Vargas\Desktop\CODIGO DE CONTROL\metodo_vb\metodo_vb\metodo_vb\obj\Debug\metodo_vb.Resources.resources
+C:\Users\Jhon Vargas\Desktop\CODIGO DE CONTROL\metodo_vb\metodo_vb\metodo_vb\obj\Debug\metodo_vb.vbproj.GenerateResource.Cache
+D:\DESARROLLO DE SOFTWARE\1.-MODULOS DE SISTEMA\DESARROLLO VISUAL BASIC\Sistema de Facturacion\CODIGO DE CONTROL\metodo_vb\metodo_vb\obj\Debug\metodo_vb.exe
+D:\DESARROLLO DE SOFTWARE\1.-MODULOS DE SISTEMA\DESARROLLO VISUAL BASIC\Sistema de Facturacion\CODIGO DE CONTROL\metodo_vb\metodo_vb\obj\Debug\metodo_vb.xml
+D:\DESARROLLO DE SOFTWARE\1.-MODULOS DE SISTEMA\DESARROLLO VISUAL BASIC\Sistema de Facturacion\CODIGO DE CONTROL\metodo_vb\metodo_vb\obj\Debug\metodo_vb.pdb
+Z:\Sistema de Facturacion\CODIGO DE CONTROL\metodo_vb\metodo_vb\obj\Debug\metodo_vb.exe
+Z:\Sistema de Facturacion\CODIGO DE CONTROL\metodo_vb\metodo_vb\obj\Debug\metodo_vb.xml
+Z:\Sistema de Facturacion\CODIGO DE CONTROL\metodo_vb\metodo_vb\obj\Debug\metodo_vb.pdb
+\\Sistemas\desarrollo de software\1.-MODULOS DE SISTEMA\DESARROLLO VISUAL BASIC\Sistema de Facturacion\CODIGO DE CONTROL\metodo_vb\metodo_vb\obj\Debug\metodo_vb.exe
+\\Sistemas\desarrollo de software\1.-MODULOS DE SISTEMA\DESARROLLO VISUAL BASIC\Sistema de Facturacion\CODIGO DE CONTROL\metodo_vb\metodo_vb\obj\Debug\metodo_vb.xml
+\\Sistemas\desarrollo de software\1.-MODULOS DE SISTEMA\DESARROLLO VISUAL BASIC\Sistema de Facturacion\CODIGO DE CONTROL\metodo_vb\metodo_vb\obj\Debug\metodo_vb.pdb

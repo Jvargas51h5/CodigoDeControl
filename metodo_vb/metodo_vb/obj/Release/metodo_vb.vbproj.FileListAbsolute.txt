@@ -1,0 +1,10 @@
+C:\Documents and Settings\dw\Mis documentos\Visual Studio 2008\Projects\metodo_vb\metodo_vb\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dw\Mis documentos\Visual Studio 2008\Projects\metodo_vb\metodo_vb\obj\Release\metodo_vb.Form1.resources
+C:\Documents and Settings\dw\Mis documentos\Visual Studio 2008\Projects\metodo_vb\metodo_vb\obj\Release\metodo_vb.Resources.resources
+C:\Documents and Settings\dw\Mis documentos\Visual Studio 2008\Projects\metodo_vb\metodo_vb\obj\Release\metodo_vb.vbproj.GenerateResource.Cache
+C:\Documents and Settings\dw\Mis documentos\Visual Studio 2008\Projects\metodo_vb\metodo_vb\bin\Release\metodo_vb.exe
+C:\Documents and Settings\dw\Mis documentos\Visual Studio 2008\Projects\metodo_vb\metodo_vb\bin\Release\metodo_vb.pdb
+C:\Documents and Settings\dw\Mis documentos\Visual Studio 2008\Projects\metodo_vb\metodo_vb\bin\Release\metodo_vb.xml
+C:\Documents and Settings\dw\Mis documentos\Visual Studio 2008\Projects\metodo_vb\metodo_vb\obj\Release\metodo_vb.exe
+C:\Documents and Settings\dw\Mis documentos\Visual Studio 2008\Projects\metodo_vb\metodo_vb\obj\Release\metodo_vb.xml
+C:\Documents and Settings\dw\Mis documentos\Visual Studio 2008\Projects\metodo_vb\metodo_vb\obj\Release\metodo_vb.pdb
